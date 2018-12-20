@@ -1,2 +1,2 @@
 # python_projects
-My latest works with Python
+My latest works with Python in Jupyter Notebook
